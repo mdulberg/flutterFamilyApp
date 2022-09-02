@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143238108618",
+    "project_id": "mickytest-1",
+    "storage_bucket": "mickytest-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143238108618:android:5e88a4da59fc12e5ac6b33",
+        "android_client_info": {
+          "package_name": "com.dulberg.thedulbergs_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143238108618-4re4as3p8odapehup074859i65o0p778.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvfQleGrqquhBZlDUkP6EwDXYOy89nGzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143238108618-4re4as3p8odapehup074859i65o0p778.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
